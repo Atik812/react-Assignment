@@ -1,0 +1,72 @@
+.table-container {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+.custom-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: sans-serif;
+}
+
+.custom-table th,
+.custom-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.custom-table th {
+    background-color: #f3f4f6;
+    color: #333;
+    font-weight: 600;
+}
+
+.status-chip {
+    padding: 2px 8px;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.status-inprocess {
+    background-color: #fef9c3;
+    color: #854d0e;
+}
+
+.status-need {
+    background-color: #dbeafe;
+    color: #1e40af;
+}
+
+.status-complete {
+    background-color: #bbf7d0;
+    color: #15803d;
+}
+
+.status-blocked {
+    background-color: #fecaca;
+    color: #b91c1c;
+}
+
+.priority-high {
+    color: #dc2626;
+    font-weight: 600;
+}
+
+.priority-medium {
+    color: #d97706;
+    font-weight: 600;
+}
+
+.priority-low {
+    color: #2563eb;
+    font-weight: 600;
+}
+
+.link {
+    color: grey;
+    text-decoration: underline;
+}
