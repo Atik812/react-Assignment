@@ -6,7 +6,7 @@ This is a purely frontend React application built using [Create React App](https
 
 ## 🔗 Live Demo
 
-🌐 **Live Site:** [https://react-assignment.vercel.app](https://react-assignment.vercel.app)  
+🌐 **Live Site:** [https://react-assignment.vercel.app](https://react-assignment-6xwv.vercel.app/)  
 📁 **GitHub Repo:** [https://github.com/Atik812/react-Assignment](https://github.com/Atik812/react-Assignment)
 
 ---
