@@ -20,8 +20,7 @@ function App() {
      <TableSheet/>
      <FooterTabs/>
      
-       <Toolbar/>
-     
+            
     </>
   )
 }
