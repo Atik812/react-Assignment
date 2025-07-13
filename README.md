@@ -15,7 +15,8 @@ This is a purely frontend React application built using [Create React App](https
 
 - **React** (Create React App)
 - **JavaScript (ES6+)**
-- **HTML5 & CSS3**
+- **HTML5 & CSS3 **
+- ** Tailwindcss **
 - **Vercel** (for continuous deployment)
 
 ---
