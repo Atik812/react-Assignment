@@ -16,14 +16,12 @@ function App() {
     <>
      <Navbar/>
      <Toolbar/>
-     {/* <TopTabBar/> */}
-     {/* <SpreadSheet/> */}
-     {/* <SpreadsheetView/> */}
+
      <TableSheet/>
      <FooterTabs/>
-      {/* <div className="min-h-screen bg-gray-50">
+     
        <Toolbar/>
-      </div> */}
+     
     </>
   )
 }
